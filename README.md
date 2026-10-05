@@ -1,3 +1,16 @@
+Hi 👋 My name is Nguyen Quang Dung
+==================================
+
+I am a developer currently learning and building software projects of my own. I am interested in how systems work behind the interface, particularly backend development, APIs, databases, and infrastructure. I tend to learn by building, debugging, and experimenting rather than stopping at theory. Outside of programming, I spend time exploring Linux, Docker, networking, and self-hosted systems.
+
+* 🌍  I'm based in Ha Noi
+* ✉️  You can contact me at [nqdung129@gmail.com](mailto:nqdung129@gmail.com)
+* 🧠  I'm currently learning Software Engineering
+* 👥  I'm looking to collaborate on open-source projects
+
+
+### Socials
+
 <p align="left"> <a href="https://www.github.com/nquangdungg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 ### Badges
 
