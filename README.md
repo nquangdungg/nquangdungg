@@ -16,7 +16,7 @@ I am a developer currently learning and building software projects of my own. I 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nquangdungg&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Repos contributed to by nquangdungg](https://github-contrib-stats.vercel.app/nquangdungg/contributed.svg)
 
 ---
 [![](https://komarev.com/ghpvc/?username=nquangdungg&icon=0&color=0)](https://visitcount.itsvg.in)
